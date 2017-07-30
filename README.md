@@ -1,6 +1,6 @@
 # HLoading
 # --------------------------------------------------------------------------------------------------------------------------
-# Show Loading
+## Show Loading
 - HLoading.show()
-# Dismiss Loading
+## Dismiss Loading
 - HLoading.dismiss()
